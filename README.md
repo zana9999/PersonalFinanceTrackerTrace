@@ -36,6 +36,11 @@ A full-stack finance dashboard I built during university to track my personal sp
 <img width="3838" height="1859" alt="image" src="https://github.com/user-attachments/assets/06a2babc-869d-48df-b606-2d6be3dd4d44" />
 
 ---
+
+<img width="3823" height="1864" alt="image" src="https://github.com/user-attachments/assets/14673637-dd2d-4371-8579-4a0b33ff5e63" />
+
+---
+
 <img width="3827" height="1852" alt="image" src="https://github.com/user-attachments/assets/e20e9fac-4671-4e6b-bb4f-b5afa90fd33d" />
 
 ---
