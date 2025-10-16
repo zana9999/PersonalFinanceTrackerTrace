@@ -1,11 +1,9 @@
 # Personal Finance Tracker 💰
----
 
 A full-stack finance dashboard I built during university to track my personal spending. Designed to be interactive, visual, and easy to use, while showing modern web development skills.
 
----
 
-**Features** ✨
+# Features ✨
 
 **Track Expenses & Income:** Add, edit, and categorize transactions.
 
@@ -15,9 +13,7 @@ A full-stack finance dashboard I built during university to track my personal sp
 
 **Full-Stack Architecture:** React front-end, Spring Boot back-end, MySQL database.
 
----
-
-**Tech Stack** 🛠️
+# Tech Stack 🛠️
 
 | Layer      | Technology               |
 |-----------|-------------------------|
@@ -27,7 +23,7 @@ A full-stack finance dashboard I built during university to track my personal sp
 | Dev Tools  | Git, GitHub, VS Code    |
 ---
 
-**Screenshots** 📸
+# Screenshots 📸
 <img width="3839" height="1871" alt="image" src="https://github.com/user-attachments/assets/eb681596-1968-4034-9c03-5fb956f17b21" />
 
 ---
