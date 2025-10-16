@@ -1,4 +1,5 @@
-**Personal Finance Tracker** 💰
+# Personal Finance Tracker 💰
+---
 
 A full-stack finance dashboard I built during university to track my personal spending. Designed to be interactive, visual, and easy to use, while showing modern web development skills.
 
